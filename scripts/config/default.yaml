@@ -1,0 +1,15 @@
+seed: 42
+model_name: roberta-base
+max_length: 384
+learning_rate: 2.0e-5
+weight_decay: 0.01
+epochs: 3
+batch_size: 8
+gradient_accumulation: 2
+warmup_ratio: 0.1
+label_smoothing: 0.03
+cf_consistency_weight: 0.25
+cf4_hinge_weight: 0.20
+cf4_margin: 0.02
+max_grad_norm: 1.0
+temperature_max_iter: 100

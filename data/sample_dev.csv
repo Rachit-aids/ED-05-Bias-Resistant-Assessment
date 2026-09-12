@@ -1,0 +1,10 @@
+question_id,question,reference_answer,student_answer,label
+q1,Why does ice float on water?,Ice is less dense than liquid water.,Ice floats because it is less dense than liquid water.,correct
+q1,Why does ice float on water?,Ice is less dense than liquid water.,Ice is denser than liquid water.,contradictory
+q1,Why does ice float on water?,Ice is less dense than liquid water.,Ice floats because it is cold.,incorrect
+q2,What gas do plants use in photosynthesis?,Plants use carbon dioxide.,Plants take in carbon dioxide.,correct
+q2,What gas do plants use in photosynthesis?,Plants use carbon dioxide.,Plants use oxygen as the raw material.,contradictory
+q2,What gas do plants use in photosynthesis?,Plants use carbon dioxide.,Plants need sunlight.,incorrect
+q3,What force pulls objects toward Earth?,Gravity pulls objects toward Earth.,Gravity attracts objects toward Earth.,correct
+q3,What force pulls objects toward Earth?,Gravity pulls objects toward Earth.,Gravity pushes objects away from Earth.,contradictory
+q3,What force pulls objects toward Earth?,Gravity pulls objects toward Earth.,Friction slows moving objects.,incorrect
